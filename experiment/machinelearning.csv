@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the goal of supervised learning?,a: To find structures in data without labels | b: To build a mathematical model using labeled data | c: To interact with a dynamic environment and maximize rewards | d: To discover hidden patterns in data,b
+Which type of learning involves finding commonalities in unlabeled data?,a: Supervised learning | b: Unsupervised learning | c: Reinforcement learning | d: Active learning,b
+What is the main application of clustering in unsupervised learning?,a: Predicting future outcomes | b: Identifying commonalities in data | c: Assigning labels to data points | d: Finding structures in labeled data,b
+Which field is closely related to machine learning but focuses on population inferences from a sample?,a: Data mining | b: Artificial intelligence | c: Statistics | d: Data compression,c
+What is the key difference between optimization and machine learning?,"a: Optimization focuses on generalization, while machine learning focuses on training data | b: Optimization algorithms minimize loss on training data, while machine learning minimizes loss on unseen samples | c: Optimization is concerned with supervised learning, while machine learning involves unsupervised learning | d: Optimization is a subset of machine learning algorithms",b
